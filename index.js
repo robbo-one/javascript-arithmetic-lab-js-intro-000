@@ -19,7 +19,7 @@ function increment(n){
   number = n + 1;
   return number;
 }
-function dec(a){
-number = a - 1;
+function decrement(n){
+number = n - 1;
 return number;
 }
