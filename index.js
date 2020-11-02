@@ -15,7 +15,7 @@ function add(a, b){
     number = a / b;
     return number;
   }
-function inc(n){
+function increment(n){
   number = n + 1;
   return number;
 }
